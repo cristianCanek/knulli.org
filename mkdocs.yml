@@ -138,7 +138,7 @@ plugins:
                 - Bluetooth: configure/bluetooth.md
                 - Controles: configure/controls.md
                 - Colecciones: configure/collections.md
-                - Juegos Multidisco: configure/multi-disc-games.md
+                - Juegos Multidiscos: configure/multi-disc-games.md
                 - LEDs RGB: configure/rgb-leds.md
                 - Pantalla: configure/display-settings.md
                 - Administración de Energía: configure/power-management.md
