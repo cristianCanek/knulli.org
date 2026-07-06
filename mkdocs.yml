@@ -140,7 +140,7 @@ plugins:
                 - Colecciones: configure/collections.md
                 - Juegos Multidiscos: configure/multi-disc-games.md
                 - LEDs RGB: configure/rgb-leds.md
-                - Pantalla: configure/display-settings.md
+                - Ajustes de Visualización: configure/display-settings.md
                 - Administración de Energía: configure/power-management.md
                 - BatteryPlus: configure/batteryplus.md
                 - Personalización:

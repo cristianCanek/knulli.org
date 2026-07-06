@@ -35,7 +35,7 @@ This section has the options for the **regular** RGB behavior. The settings appl
     * *Rainbow* creates a "moving" rainbow effect
     * *Single Rainbow* fades from one random color to the next, creating a constant single-color rainbow animation
     * *Input Pulse* shows a constant light in primary color, highlights the current thumbstick direction in secondary color
-    * *Wave* is the default setting and shows a constant light in primary color and a wave effect in secondary color
+    * *Wave* shows a constant light in primary color and a wave effect in secondary color
     * *Knight Rider* moves a red light from left to right and back to remind everyone of your favorite car
 * **Color Palette** gives you a large amount of 2-color palettes to choose from, each providing a primary and a secondary color, default setting is *Knulli*
 * **Primary Color** lets you pick your primary color (by changing this manually, your palette will change to *Custom*)
